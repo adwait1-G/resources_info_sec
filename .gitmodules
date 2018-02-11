@@ -4,6 +4,6 @@
 [submodule "reverseengineering-reading-list"]
 	path = reverseengineering-reading-list
 	url = https://github.com/onethawt/reverseengineering-reading-list.git
-[submodule "re_exrs"]
-	path = re_exrs
+[submodule "exrs"]
+	path = exrs
 	url = https://github.com/wapiflapi/exrs.git
