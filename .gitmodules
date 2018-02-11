@@ -1,3 +1,6 @@
 [submodule "linux-re-101"]
 	path = linux-re-101
 	url = https://github.com/michalmalik/linux-re-101.git
+[submodule "reverseengineering-reading-list"]
+	path = reverseengineering-reading-list
+	url = https://github.com/onethawt/reverseengineering-reading-list.git
